@@ -1,6 +1,8 @@
 {
   "isActive": true,
   "communityName": "Tiger Testing",
+  "radioSystems": [6, 10],
+  "rtoChannels": [7, 11],
   "permissions": {
     "permBasic": {
       "serverGroupList": ["14"]
