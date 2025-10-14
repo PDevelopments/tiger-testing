@@ -1,4 +1,18 @@
 {
   "isActive": true,
-  "communityName": "Tiger Testing"
+  "communityName": "Tiger Testing",
+  "permissions": {
+    "permBasic": {
+      "serverGroupList": ["14"]
+    },
+    "permStaff": {
+      "serverGroupList": ["15"]
+    },
+    "permAdmin": {
+      "serverGroupList": ["16"]
+    },
+    "permSuper": {
+      "serverGroupList": ["17"]
+    },
+  }
 }
