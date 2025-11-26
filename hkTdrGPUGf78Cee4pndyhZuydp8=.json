@@ -1,0 +1,20 @@
+{
+  "isActive": true,
+  "communityName": "South Valley RP",
+  "radioSystems": [569, 928],
+  "rtoChannels": [947, 607],
+  "permissions": {
+    "permBasic": {
+      "serverGroupList": ["734"]
+    },
+    "permStaff": {
+      "serverGroupList": ["737", "736", "735"]
+    },
+    "permAdmin": {
+      "serverGroupList": ["739", "738"]
+    },
+    "permSuper": {
+      "serverGroupList": ["740"]
+    }
+  }
+}
